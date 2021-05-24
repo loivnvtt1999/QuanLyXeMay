@@ -1,0 +1,12 @@
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\bin\Debug\Entity.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\bin\Debug\Entity.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\bin\Debug\Entity.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\bin\Debug\Entity.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache

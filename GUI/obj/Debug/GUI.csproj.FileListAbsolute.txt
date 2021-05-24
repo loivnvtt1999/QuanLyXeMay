@@ -1,0 +1,89 @@
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\GUI.exe.config
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\GUI.exe
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\GUI.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmDangNhap.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmHoaDon.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.exe
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\BUS.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Entity.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DAL.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\BUS.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Entity.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DAL.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DAL.dll.config
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\EPPlus.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\EPPlus.xml
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmManHinhChinhQuanLy.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmManHinhChinhKho.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongTinNhanVien.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmManHinhChinhNhanVienBanHang.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmNhapDiaChi.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmQuanLyNhanVien.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThemXe.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThemNhaCungCap.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\LinqToExcel.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Remotion.Data.Linq.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Remotion.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Remotion.Interfaces.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\LinqToExcel.xml
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongKeHoaDon.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmHopDong.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmKhachHang.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmTaoPhieuXuat.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmTaoPhieuNhap.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmSplash.resources
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongTinSanPham.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.exe
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\GUI.exe.config
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\GUI.exe
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\GUI.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\BUS.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Entity.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\LinqToExcel.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Remotion.Data.Linq.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Remotion.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Remotion.Interfaces.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DAL.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\BUS.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\Entity.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\LinqToExcel.xml
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DAL.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DAL.dll.config
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmHopDong.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmManHinhChinhKho.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmManHinhChinhNhanVienBanHang.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmManHinhChinhQuanLy.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmNhapDiaChi.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmQuanLyNhanVien.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmSplash.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmTaoPhieuNhap.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmTaoPhieuXuat.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThemNhaCungCap.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThemXe.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongKeHoaDon.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongTinNhanVien.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongTinSanPham.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmThongKeSoLuongVaDoanhThu.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DevComponents.DotNetBar.Charts.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmChiTietThongKe.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.frmBanChay.resources
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache

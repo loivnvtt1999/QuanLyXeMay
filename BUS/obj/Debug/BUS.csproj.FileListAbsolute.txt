@@ -1,0 +1,24 @@
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\BUS.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\BUS.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\DAL.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\Entity.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\DAL.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\DAL.dll.config
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\Entity.pdb
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.dll
+E:\N\ki 1 2019\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\BUS.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\BUS.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\DAL.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\Entity.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\DAL.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\DAL.dll.config
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\bin\Debug\Entity.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.dll
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.pdb
+D:\PhatTrienUngDung\PTUD\Solution\Nhom15_DHKTPM13A_DeTai7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
